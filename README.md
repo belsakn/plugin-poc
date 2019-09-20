@@ -1,0 +1,2 @@
+# plugin-poc
+go-plugin
